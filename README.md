@@ -14,9 +14,9 @@
 
 ⚡wsl --set-default-version 2
 
-4) Install Ubuntu on Microsof Store
+4) Install Ubuntu on Microsoft Store
 
-5) Install Windows Terminal
+5) Install Windows Terminal on Microsoft Store
 
 6) Disable the Hyper-v
 
@@ -34,7 +34,10 @@
   processors=4
   swap=2GB
 
-8) Instalar o Docker
+8) Install Docker
+
+
+▶️ [Install Docker Desktop on Windows](https://docs.docker.com/desktop/windows/install/) 
 
 
 ### Information
