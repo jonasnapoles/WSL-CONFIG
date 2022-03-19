@@ -1,0 +1,2 @@
+# WSL-CONFIG
+.wslconfig
