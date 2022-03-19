@@ -35,3 +35,8 @@
   swap=2GB
 
 8) Instalar o Docker
+
+
+### Information
+
+▶️ [Advanced settings configuration in WSL](https://docs.microsoft.com/en-us/windows/wsl/wsl-config) 
