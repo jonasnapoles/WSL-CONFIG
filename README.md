@@ -1,5 +1,5 @@
 ## WSL-CONFIG
-  ###.wslconfig
+  ### .wslconfig
 
 1) Uninstall Docker
 
