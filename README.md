@@ -43,3 +43,9 @@
 ### Information
 
 ▶️ [Advanced settings configuration in WSL](https://docs.microsoft.com/en-us/windows/wsl/wsl-config) 
+
+
+### BUG
+   System.InvalidOperationException: Failed to deploy distro docker-desktop to <localpath>: exit code: -1
+  
+   delete %USERPROFILE%/.wslconfig.
