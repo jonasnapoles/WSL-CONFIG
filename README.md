@@ -55,8 +55,11 @@
   First option:
   
   Open Command Ubuntu:
+  
   ⚡ sudo nano /etc/resolv.conf
+  
   Change the na,e server value to 8.8.8.8
+  
   nameserver xxx.xx.xx
   
   Second option:
@@ -64,8 +67,11 @@
   Open Command Prompt as an Administrator and type these commands:
   
   ⚡ netsh winsock reset 
+  
   ⚡ netsh int ip reset all
+  
   ⚡ netsh winhttp reset proxy
+  
   ⚡ ipconfig /flushdns
   
   After reboot your machine.
