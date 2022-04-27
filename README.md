@@ -46,13 +46,13 @@
 
 
 ### BUG
-  ### System.InvalidOperationException: Failed to deploy distro docker-desktop to <localpath>: exit code: -1
+   #### System.InvalidOperationException: Failed to deploy distro docker-desktop to <localpath>: exit code: -1
   
    ⚡ delete ** %USERPROFILE%/.wslconfig. **
   
   Without internet with WSL (Windows Subsystem for Linux)
   
-  First option:
+  #### First option:
   
   Open Command Ubuntu:
   
@@ -62,7 +62,7 @@
   
   nameserver xxx.xx.xx
   
-  Second option:
+  #### Second option:
   
   Open Command Prompt as an Administrator and type these commands:
   
