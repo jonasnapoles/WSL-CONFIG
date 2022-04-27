@@ -46,7 +46,7 @@
 
 
 ### BUG
-   System.InvalidOperationException: Failed to deploy distro docker-desktop to <localpath>: exit code: -1
+  ### System.InvalidOperationException: Failed to deploy distro docker-desktop to <localpath>: exit code: -1
   
    ⚡ delete ** %USERPROFILE%/.wslconfig. **
   
