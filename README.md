@@ -3,7 +3,7 @@
 
 1) Uninstall Docker
 
-2) Enable WSL Windows 11
+2) Enable WSL Windows 11, open PowerShell as an Administrator and type these commands:
 
  ⚡ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
  
