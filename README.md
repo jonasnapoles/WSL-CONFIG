@@ -10,16 +10,16 @@
  
  ⚡ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
-3) Enable the WSL for the 2
+3) Enable the WSL for the 2, type these commands:
 
 
-⚡wsl --set-default-version 2
+⚡wsl --set-default-version 2, type these commands:
 
 4) Install Ubuntu on Microsoft Store
 
 5) Install Windows Terminal on Microsoft Store
 
-6) Disable the Hyper-v
+6) Disable the Hyper-v, type these commands:
 
 
  ⚡ Turn Windows features on or off
@@ -47,7 +47,8 @@
 
 
 ### BUG
-   #### System.InvalidOperationException: Failed to deploy distro docker-desktop to <localpath>: exit code: -1
+   #### System.InvalidOperationException: Failed to deploy distro docker-desktop to <localpath>: exit code: -1 
+  type these commands:
   
    ⚡ delete ** %USERPROFILE%/.wslconfig. **
   
@@ -55,7 +56,7 @@
   
   #### First option:
   
-  Open Command Ubuntu:
+  Open Command Ubuntu and type these commands:
   
   ⚡ sudo nano /etc/resolv.conf
   
